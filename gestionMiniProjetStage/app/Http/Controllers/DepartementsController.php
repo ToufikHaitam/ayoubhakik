@@ -14,6 +14,15 @@ use App\imports\ImportEtudiantsGi4;
 use App\imports\ImportEtudiantsGi3;
 use App\imports\ImportEnseignants;
 
+/////////////////////////////////
+
+Conseils : Svp  utiliser les elequents au lieux de query builder  comme ca vous allez ganner bq du temps et creer un code pro 
+
+///////////////////////////////
+
+
+
+
 
 
 class DepartementsController extends Controller
